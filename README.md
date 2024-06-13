@@ -14,6 +14,14 @@ This project aims to provide a robust, secure, and user-friendly electronic acce
 - **Audit Logs**: Detailed logs of all access attempts for compliance and security reviews.
 - **Customizable Reports**: Generating tailored reports for specific needs.
 
+## **Functional Requirements**
+- **User Roles:** Define different user roles (e.g., Employee, Manager, Admin).
+- **Mobile App Features:** Check-in/out, attendance view, access requests.
+- **Web Portal Features:** Admin dashboard, user management, report generation.
+- **Notifications:** Implement notifications and alerts.
+- **Security Features:** Multi-factor authentication, geo-fencing, audit logs.
+- **Reporting:** Customizable reports for attendance and access logs.
+
 ## **Advantages**
 
 - **Convenience and Accessibility**: Employees can use smartphones or other devices for access.
@@ -29,3 +37,4 @@ This project aims to provide a robust, secure, and user-friendly electronic acce
 - **Compliance**: Ensuring system compliance with relevant data protection and privacy regulations.
 - **Backup and Redundancy**: Robust backup and redundancy measures for system availability and data integrity.
 - **User Feedback**: Regular collection of user feedback to identify issues and areas for improvement.
+
